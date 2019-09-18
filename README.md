@@ -1,2 +1,2 @@
 # Java Connect 4 game 
-This is a Connect 4 game made in java. It has 
+This is a Connect 4 game made in java. It has text based game play with pvp an and player versus AI capabilities. GUI (using javafx) game play with pvp and player versus AI capabilities. It also possesses a local server client system which facilitates play between 2 different window clients. 
