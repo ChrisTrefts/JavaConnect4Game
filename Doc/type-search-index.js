@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"core","l":"Connect4"},{"p":"core","l":"Connect4Client"},{"p":"core","l":"Connect4ComputerPlayer"},{"p":"test","l":"Connect4ComputerPlayerTest"},{"p":"core","l":"Connect4Constants"},{"p":"ui","l":"Connect4GUI"},{"p":"ui","l":"Connect4GUI.Disc"},{"p":"core","l":"Connect4Server"},{"p":"test","l":"Connect4Test"},{"p":"ui","l":"Connect4TextConsole"}]
